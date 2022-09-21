@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="hu.petrik.javaoop.Main" />
-    <module name="java-oop" />
+    <option name="MAIN_CLASS_NAME" value="hu.petrik.java_geometry_oop.Main" />
+    <module name="java_geometry_oop" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

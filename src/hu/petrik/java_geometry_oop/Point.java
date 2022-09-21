@@ -1,4 +1,4 @@
-package hu.petrik.javaoop;
+package hu.petrik.java_geometry_oop;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
