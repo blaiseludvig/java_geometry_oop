@@ -45,7 +45,7 @@ public class Circle {
     }
 
     public double circumference() {
-        return radius * Math.PI;
+        return 2 * radius * Math.PI;
     }
 
     public double area() {
